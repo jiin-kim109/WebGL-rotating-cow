@@ -12,7 +12,7 @@ python server.py
 1. Type `http://localhost:8000` on your browser.  
 
 
-## How to Control Cow
+## How to Control the Cow
 Rotate point => light "p"  
 
 Rotate Spot => light "s"  
