@@ -1,4 +1,5 @@
-This project was part of SFU CMPT 361 Graphics course.  
+<h6> Part of SFU CMPT 361 Introduction to Graphics course.</h6>
+
 ![](./rotating_cow.gif)
 <hr style="border:2px solid gray">  
 
