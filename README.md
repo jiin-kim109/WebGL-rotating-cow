@@ -13,9 +13,9 @@ python server.py
 
 
 ## How to Control the Cow
-Rotate point => light "p"  
+Rotate Point Light => light "p"  
 
-Rotate Spot => light "s"  
+Rotate Spot Light => light "s"  
 
 XY Translation => Left mouse press and drag  
 Z Translation => Arrow Up or Down  
