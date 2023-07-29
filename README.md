@@ -1,6 +1,6 @@
 This project was part of SFU CMPT 361 Graphics course.  
-<hr style="border:2px solid gray">
-![image](rotating_cow.gif)  
+![](./rotating_cow.gif)
+<hr style="border:2px solid gray">  
 
 ## Setup
 Open up a Python HTTP server.  
