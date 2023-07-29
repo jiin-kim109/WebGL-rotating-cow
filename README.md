@@ -4,11 +4,12 @@
 <hr style="border:2px solid gray">  
 
 ## Setup
-Open up a Python HTTP server.  
+1. Open up a Python HTTP server.  
 `
 python server.py
 `
-Type `http://localhost:8000` on your browser.  
+  
+1. Type `http://localhost:8000` on your browser.  
 
 
 ## How to Manipulate
