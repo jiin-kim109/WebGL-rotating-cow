@@ -1,4 +1,10 @@
-<h6> Part of SFU CMPT 361 Introduction to Graphics course.</h6>
+<h6> Part of SFU CMPT 361 Introduction to Graphics course.<br/>
+Textbook: Interactive Computer Graphics with WebGL, Seventh Edition by EDWARD ANGEL, Dave Shreiner<br>
+Additional Reference:<br>
+https://webglfundamentals.org/webgl/lessons/webgl-3d-lighting-point.html<br>
+https://webglfundamentals.org/webgl/lessons/webgl-3d-lighting-spot.html  
+https://www.cs.toronto.edu/~jacobson/phong-demo/  
+</h6>
 
 ![](./rotating_cow.gif)
 <hr style="border:2px solid gray">  
@@ -12,10 +18,14 @@ python server.py
 1. Type `http://localhost:8000` on your browser.  
 
 
-## Control the Cow
-Rotate Point Light => light "p"  
+## Features
+Point Lighting, Spot Lighting  
+Phong Shading  
+Object Transition, Rotation  
 
-Rotate Spot Light => light "s"  
+***Control the Cow Object**  
+Rotate the Point Light => light "p"  
+Rotate the Spot Light => light "s"  
 
 XY Translation => Left mouse press and drag  
 Z Translation => Arrow Up or Down  
