@@ -23,12 +23,12 @@ Point Lighting, Spot Lighting
 Phong Shading  
 Object Transition, Rotation  
 
-***Control the Cow Object**  
-Rotate the Point Light => light "p"  
-Rotate the Spot Light => light "s"  
+***Control the Cow Object**    
+Keypress "p" - Rotate the Point Light  
+Keypress "s" - Rotate the Spot Light  
 
-XY Translation => Left mouse press and drag  
-Z Translation => Arrow Up or Down  
+Left mouse press and drag - XY Translation  
+Keypress Arrow up or down - Z Translation  
 
-XY Rotation => Right mouse press and drag  
-Z Rotation => Arrow Left or Right  
+Right mouse press and drag - XY Rotation   
+Keypress Arrow left or right - Z Rotation
