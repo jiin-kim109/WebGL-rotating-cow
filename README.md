@@ -1,6 +1,5 @@
 <h6> Part of SFU CMPT 361 Introduction to Graphics course.<br/>
-Textbook:<br>
-Interactive Computer Graphics with WebGL, Seventh Edition by EDWARD ANGEL, Dave Shreiner<br>
+Textbook: Interactive Computer Graphics with WebGL, Seventh Edition by EDWARD ANGEL, Dave Shreiner<br>
 Additional Reference:<br>
 https://webglfundamentals.org/webgl/lessons/webgl-3d-lighting-point.html<br>
 https://webglfundamentals.org/webgl/lessons/webgl-3d-lighting-spot.html  
